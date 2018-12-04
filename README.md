@@ -1,0 +1,2 @@
+# semogabesar.js
+semogabesar
